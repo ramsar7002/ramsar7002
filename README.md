@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with choosing the right 'big' project
 -  💬 Ask me about QA engineering
 -  📫 How to reach me:
-- -     Linkedin: [I'm an inline-style link](https://www.google.com)
+Linkedin: [I'm an inline-style link](https://www.google.com)
 - -     Email: [a link](ramsar7002@gmail.com)
 <!--
 **ramsar7002/ramsar7002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
