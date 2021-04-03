@@ -8,6 +8,7 @@
 -  📫 How to reach me:
 - -     Linkedin: [Link Text](https://www.linkedin.com/in/ram-sarfian/)
 - -     Email: [a link](ramsar7002@gmail.com)
+- [I'm an inline-style link](https://www.google.com)
 <!--
 **ramsar7002/ramsar7002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
