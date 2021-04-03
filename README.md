@@ -7,7 +7,7 @@
 -  💬 Ask me about QA engineering
 -  📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/ram-sarfian/), 
-[Email](ramsar7002@gmail.com)
+[Email](mailto:ramsar7002@gmail.com)
 <!--
 **ramsar7002/ramsar7002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
