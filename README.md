@@ -1,7 +1,8 @@
 ### Hi there, I'm Ram 👋
+- 📚 I'm a 2nd year Computer Science student
 - 🌱 I’m currently learning ReactJS
 - 👯 I'm looking to collaborate on project involving ReactJS and NodeJS
-- 🤔 I’m looking for help with choose the right 'big' project
+- 🤔 I’m looking for help with choosing the right 'big' project
 -  💬 Ask me about QA engineering.
 -  📫 How to reach me:
 - -     Linkedin: https://www.linkedin.com/in/ram-sarfian/
