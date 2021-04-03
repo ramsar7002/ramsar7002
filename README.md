@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS
 - 👯 I'm looking to collaborate on project involving ReactJS and NodeJS
 - 🤔 I’m looking for help with choosing the right 'big' project
--  💬 Ask me about QA engineering.
+-  💬 Ask me about QA engineering
 -  📫 How to reach me:
 - -     Linkedin: https://www.linkedin.com/in/ram-sarfian/
 - -     Email: ramsar7002@gmail.com
