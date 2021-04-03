@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ram 👋
 - 🌱 I’m currently learning ReactJS
 - 👯 I'm looking to collaborate on project involving ReactJS and NodeJS
 - 🤔 I’m looking for help with choose the right 'big' project
