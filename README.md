@@ -1,7 +1,7 @@
 ### Hi there, I'm Ram 👋
-- 📚 I'm a 2nd year Computer Science student
-- 💻 I'm working as QA Engineer at Softil Innovative Communications
--  📫 How to reach me:
+- 📚  I'm a 2nd year Computer Science student
+- 💻  I'm working as QA Engineer at Softil Innovative Communications
+-  📫  How to reach me:
 [Linkedin](https://www.linkedin.com/in/ram-sarfian/), 
 [Email](mailto:ramsar7002@gmail.com)
 <!--
