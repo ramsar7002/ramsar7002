@@ -1,5 +1,5 @@
 ### Hi there, I'm Ram 👋
-- 📚  I'm a 3rd year Computer Science student
+- 📚  B.Sc in Computer Science - 91.5 avg grade
 - 💻  I'm working as QA Engineer at ironSource
 -  📫  How to reach me:
 [Linkedin](https://www.linkedin.com/in/ram-sarfian/), 
