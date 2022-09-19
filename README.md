@@ -1,6 +1,6 @@
 ### Hi there, I'm Ram 👋
 - 📚  B.Sc in Computer Science - 91.5 avg grade
-- 💻  I'm working as QA Engineer at ironSource
+- 💻  Working as QA Engineer at ironSource
 -  📫  How to reach me:
 [Linkedin](https://www.linkedin.com/in/ram-sarfian/), 
 [Email](mailto:ramsar7002@gmail.com)
