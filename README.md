@@ -1,6 +1,6 @@
 ### Hi there, I'm Ram 👋
 - 📚  B.Sc in Computer Science - 91.5 avg grade
-- 💻  Working as QA & Automation Engineer at ironSource
+- 💻  Working as Automation Engineer at Unity
 -  📫  How to reach me:
 [Linkedin](https://www.linkedin.com/in/ram-sarfian/), 
 [Email](mailto:ramsar7002@gmail.com)
