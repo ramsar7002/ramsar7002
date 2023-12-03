@@ -2,8 +2,7 @@
 - 💻  Working as Automation Lead at Unity
 - 📚  B.Sc in Computer Science - 91.5 avg grade
 - 📫  How to reach me:
-[Linkedin](https://www.linkedin.com/in/ram-sarfian/), 
-[Email](mailto:ramsar7002@gmail.com)
+[Linkedin](https://www.linkedin.com/in/ram-sarfian/)
 <!--
 **ramsar7002/ramsar7002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
