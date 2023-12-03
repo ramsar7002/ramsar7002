@@ -1,7 +1,7 @@
 ### Hi there, I'm Ram 👋
+- 💻  Working as Automation Lead at Unity
 - 📚  B.Sc in Computer Science - 91.5 avg grade
-- 💻  Working as Automation Engineer at Unity
--  📫  How to reach me:
+- 📫  How to reach me:
 [Linkedin](https://www.linkedin.com/in/ram-sarfian/), 
 [Email](mailto:ramsar7002@gmail.com)
 <!--
