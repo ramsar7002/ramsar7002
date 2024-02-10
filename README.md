@@ -1,5 +1,5 @@
 ### Hi there, I'm Ram 👋
-- 💻  Working as Automation Lead at Unity
+- 💻  Working as Infrastructure Automation Engineer at Cato Networks
 - 📚  B.Sc in Computer Science - 91.5 avg grade
 - 📫  How to reach me:
 [Linkedin](https://www.linkedin.com/in/ram-sarfian/)
