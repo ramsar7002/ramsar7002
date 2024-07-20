@@ -1,5 +1,5 @@
 ### Hi there, I'm Ram 👋
-- 💻  Working as Software Developer - Infra Automation at Cato Networks
+- 💻  Working as Software Developer - Automation Infra at Cato Networks
 - 📚  B.Sc in Computer Science - 91.5 avg grade
 - 📫  How to reach me:
 [Linkedin](https://www.linkedin.com/in/ram-sarfian/)
